@@ -4,7 +4,6 @@ import copy
 import matplotlib.pyplot as plt
 
 
-
 def minIndex(q, sortedIndex):
     min_index = -1
     min_val = 999999999999
